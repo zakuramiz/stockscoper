@@ -1,2 +1,2 @@
 const myHeading = document.querySelector("h1");
-myHeading.textContent = "Hello wodl!";
+myHeading.textContent = "Hello wodl!"; fart
